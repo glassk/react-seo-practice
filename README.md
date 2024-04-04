@@ -22,13 +22,17 @@
 
 ## SEO 스코어 분석
 
-- 스코어 분석에 사용한 서비스: (링크 적기, 예: https://www.seobility.net/en/seocheck/)
+- 스코어 분석에 사용한 서비스: https://www.seobility.net/en/seocheck
+
+<img width="1045" src="https://github.com/glassk/react-seo-practice/assets/63575891/d66ec4ad-85d2-4c96-b865-f868d2b0d0a0" alt="SEO Score 분석 결과" />
 
 ### 개선점
 
-- 스코어 개선을 위해 필요한 작업 1
-- 스코어 개선을 위해 필요한 내용 2
-- 스코어 개선을 위해 필요한 내용 3
+- <b>Add a H1 heading to this page.</b> : 각 웹 페이지에는 명확하고, 관련성 높은 내용을 담은 하나의 `<h1>` 태그가 있어야 한다. `<h1>` 태그는 검색 엔진에게 페이지의 주제를 알려주는 역할을 한다. 페이지의 가장 중요한 키워드를 포함시키는 것이 좋다.
+- <b>Use good headings on the page.</b>: `<h2>`, `<h3>`, ... `<h6>` 태그 등을 사용하여 페이지 내용을 적절히 구조화한다. 하위 제목들은 사용자와 검색 엔진이 콘텐츠를 더 쉽게 이해하게 돕는다. 중요한 키워드를 하위 제목에 포함시키되, 자연스럽고 읽기 쉬운 방식으로 구성해야 한다.
+- <b>This page has only few internal links. If it's a welcome page, consider removing it.</b>: 내부 링크를 통해 사용자가 웹사이트 내 다른 관련 페이지로 쉽게 이동할 수 있게 하고, 검색 엔진이 사이트 구조를 이해하게 돕는다. 더 많은 내부 링크를 추가한다.
+- <b>Improve the text of the meta description.</b>: 페이지 내용과 관련성 높은 키워드를 포함시키되, 스팸처럼 보이지 않도록 자연스러운 문장을 사용한다. 일반적으로 메타 설명은 160자 이내로 작성하는 것이 좋다.
+- <b>The page title should be better suited to the content of the page.</b>: 제목은 짧고 명확하며, 페이지 내용을 정확히 반영해야 한다. 보통 60자 내외로 페이지의 주요 키워드를 포함시키는 것이 좋다.
 
 ## 미리보기
 
